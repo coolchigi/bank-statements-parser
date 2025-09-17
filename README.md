@@ -74,7 +74,7 @@ pdf-parser/
 ## Customization
 
 - **Patterns**: To support other banks or statement formats, modify the regex patterns in [`rbcPdfParser.ts`](src/lib/rbcPdfParser.ts).
-- **Styling**: Uses Tailwind CSS utility classes for layout and colors. Adjust as needed in your components or CSS files.
+- **Styling**: Customize styles in your CSS files as needed.
 
 ---
 
